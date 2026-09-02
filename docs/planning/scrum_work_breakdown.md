@@ -103,13 +103,13 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Descripción** | *Establecer y añadir las reglas para el registro del capitan.* |
 | **Tareas requisito** | *TR-03* |
 
-| Campo | Descripción |
-|------|-------------|
-| **ID** | TR-05 |
-| **Título** | Crear el registro para el Organizador |
-| **ID de la Historia de Uso asociada** | HU-03 |
-| **Descripción** | *Diseñar y programar el sistema de registro para el capitan.* |
-| **Tareas requisito** | *Ninguna* |
+| Campo | Descripción                                                       |
+|------|-------------------------------------------------------------------|
+| **ID** | TR-05                                                             |
+| **Título** | Crear el registro para el Organizador                             |
+| **ID de la Historia de Uso asociada** | HU-03                                                             |
+| **Descripción** | *Diseñar y programar el sistema de registro para el organizador.* |
+| **Tareas requisito** | *Ninguna*                                                         |
 
 | Campo | Descripción |
 |------|-------------|
