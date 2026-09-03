@@ -129,7 +129,9 @@ DOSW-Lab4/
     ├── requirements/
     ├── planning/
 ```
-5. Create a pull request to merge the changes from the `feature/proj-structure` branch into `develop`. The pull request must be approved by at least one team member.
+3. Create a pull request to merge the changes from the `feature/proj-structure` branch into `develop`. The pull request must be approved by at least one team member.
+
+**Complete, it was done directly in the main branch and first commit of the project.**
 
 ---
 
@@ -139,6 +141,13 @@ Based on the case study and the requirements defined in parts 3 and 4 of Lab 4, 
 
 1. Create the `feature/proj-work-breakdown` branch based on the `develop` branch.
 2. Define one of the Scrum team roles for each member: Product Owner, Scrum Master, or Developer. Write the assigned roles in the README.md file.
+
+| Name                               | Scrum Team Role |
+|------------------------------------|-----------------|
+| Daniel Santiago Morales Perdomo    | `Product Owner` |
+| Edgar Daniel Ruiz Patiño           |  `Scrum Master` |
+| Miguel Ángel Acero Laverde         |   `Developer`   |
+
 3. Create the `scrum_work_breakdown.md` [file](https://github.com/lauherrerac/dosw-lab4-example/blob/81b94c76ca098a6f0f27df71e9b949fcdd251719/docs/planning/scrum_work_breakdown.md) in the `planning` folder (path: `DOSW-Lab4/docs/planning`). Note: Use the linked document as a template.
 4. Identify the epic associated with the requirement you selected in part 4 of Lab 3 and document it in the `scrum_work_breakdown.md` file.
 5. Based on the selected epic, describe 4 user stories and document them in the `scrum_work_breakdown.md` file. Important: In this step, do not define the priority or the estimation for the user stories.
@@ -206,3 +215,14 @@ Based on the priority given to each user story and the estimations made, complet
 ## 9. PART 6 – Delivery (5%)
 
 Create a pull request to submit the changes from the `develop` branch to `main`. This pull request must be approved by at least one team member. Important: The pull request cannot be approved by the same person who created it.
+
+### PART 4 – Story Point Estimation (Planning Poker)
+
+What was the biggest difficulty when estimating?
+* La dificultad más grande que enfrentamos es separse de la idea de una estimación por tiempo. 
+
+Was it easy to reach a consensus?
+* Sí, realmente es fácil llegar a un consenso cuando hay argumentos sólidos por la partes.
+
+How did you resolve scenarios where the estimates for the same user story were not close?
+* En esos casos, cada integrante manifestó las razones de su eleeción, logrando establecer la mejor estimación para el equipo.
