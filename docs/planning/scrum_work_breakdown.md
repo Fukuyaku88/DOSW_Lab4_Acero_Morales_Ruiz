@@ -22,7 +22,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **Descripción** | *COMO Estudiante QUIERO registrarme PARA PODER tener un usuario con el que logearme y acceder a las funcionalidades de Estudiante.* |
 | **Prioridad** | *Alta* |
 | **Estimación** | *5* |
-| **Justificación** | *La prioridad es alta debido a que consideramos que es util para el proyecto, dado que es uno de los usuarios principales, y requerimos verificar, que este se registre correctamente como un estudiante y que pueda acceder a su interfaz y funcionalidades como estudiante una vez inicia sesion, y colocamos una estimacion de 5 dado que creemos que el equipo debe de realizar una corta investigacion de como se hace un registro y se conecta con la interfaz y base de datos, y no requiere una logica compleja.* |
+| **Justificación** | *La prioridad es alta debido a que consideramos que es util para el proyecto, dado que es uno de los usuarios principales, y requerimos verificar, que este se registre correctamente como un estudiante y que pueda acceder a su interfaz y funcionalidades como estudiante una vez inicia sesion, y colocamos una estimacion de 5 dado que creemos que el equipo debe de realizar una corta investigacion de como se hace un registro y se conecta con la interfaz y base de datos, y no requiere una lógica compleja.* |
 
 | Campo | Descripción |
 |-------|-------------|
@@ -158,3 +158,13 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 | **ID de la Historia de Uso asociada** | HU-04, HU-05, HU-06 |
 | **Descripción** | *Diseñar y programar la interfaz de inicio de sesion para los usuarios.* |
 | **Tareas requisito** | *Ninguna* |
+
+
+### PART 4 – Story Point Estimation (Planning Poker)
+<p align="center">
+  <video src="https://youtu.be/sh0UV5JA1Ok" width="80%" controls></video>
+</p>
+
+en caso de no visualizar el video acá se encuentra el link:
+https://youtu.be/sh0UV5JA1Ok
+de todas maneras también se encuentra en la carpeta de ´video´
