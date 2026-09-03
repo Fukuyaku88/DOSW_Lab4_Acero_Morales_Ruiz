@@ -165,6 +165,7 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
   <video src="https://youtu.be/sh0UV5JA1Ok" width="80%" controls></video>
 </p>
 
+[![Texto opcional del video](https://youtu.be/sh0UV5JA1Ok)](https://youtu.be/sh0UV5JA1Ok)
 en caso de no visualizar el video acá se encuentra el link:
 https://youtu.be/sh0UV5JA1Ok
 de todas maneras también se encuentra en la carpeta de ´video´
