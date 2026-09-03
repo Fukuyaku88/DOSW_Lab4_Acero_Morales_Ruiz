@@ -215,3 +215,14 @@ Based on the priority given to each user story and the estimations made, complet
 ## 9. PART 6 – Delivery (5%)
 
 Create a pull request to submit the changes from the `develop` branch to `main`. This pull request must be approved by at least one team member. Important: The pull request cannot be approved by the same person who created it.
+
+### PART 4 – Story Point Estimation (Planning Poker)
+
+What was the biggest difficulty when estimating?
+* La dificultad más grande que enfrentamos es separse de la idea de una estimación por tiempo. 
+
+Was it easy to reach a consensus?
+* Sí, realmente es fácil llegar a un consenso cuando hay argumentos sólidos por la partes.
+
+How did you resolve scenarios where the estimates for the same user story were not close?
+* En esos casos, cada integrante manifestó las razones de su eleeción, logrando establecer la mejor estimación para el equipo.
