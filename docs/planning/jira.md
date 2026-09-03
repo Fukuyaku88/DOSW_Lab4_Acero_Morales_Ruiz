@@ -39,3 +39,11 @@ La implementación de los requerimientos identificados de TechCup se desglosa de
 
 ![Backlog BG-01](../images/BG-01.png)
 
+Decidimos que las tareas serían distributas entre los miembros del equipo de la siguiente manera:
+1. TR-01 y TR-02 para Danil Ruiz
+2. TR-03 y TR-04 para Daniel Morales
+3. TR-05, TR-06 y TR-010 para Miguel Acero
+
+Por decisión propia de cada integrantes hicimos la elección de las tareas que conideramos que son la base para contruir las demás. Así, el registro de sesión es importante para acceder a las demás funcionalidades.
+
+![Backlog BG-02](../images/BG-02.png)
